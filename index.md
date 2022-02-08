@@ -1,6 +1,6 @@
-## Welcome to Shanwen WANG's Homepages
+## Welcome to Shanwen WANG's Homepage
 
-You can use the [editor on GitHub](https://github.com/shanwen-wang/shanwen-wang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Shanwen WANG 王善文 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
