@@ -9,7 +9,7 @@ School of Mathematics, Renmin university of China.
 No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
 
 Email: s_wang@ruc.edu.cn
-### -------This page is under construction....
+### :mushroom：This page is under construction:mushroom:
 
 **CV**
 
@@ -20,7 +20,7 @@ Email: s_wang@ruc.edu.cn
 
 
 
-### ------Useful links
+### :mushroom:Useful links:mushroom:
 
 
 
