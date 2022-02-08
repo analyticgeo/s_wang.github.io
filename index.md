@@ -2,17 +2,11 @@
 
 Shanwen WANG 王善文 
 
-Associate professor
+Associate professor.
 
-School of Mathematics,
+School of Mathematics, Renmin university of China.
 
-Renmin university of China.
-
-No. 59 Zhongguancun Street, 
-
-Haidian District Beijing, 
-
-100872, P.R. China.
+No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
 
 Email: s_wang@ruc.edu.cn
 ### This page is under construction....
