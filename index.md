@@ -11,14 +11,13 @@ No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
 Email: s_wang@ruc.edu.cn
 ### This page is under construction....
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# CV
+## Mathematical writings 
+### Teachings
 
 - Bulleted
 - List
