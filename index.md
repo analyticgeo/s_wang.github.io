@@ -2,8 +2,13 @@
 
 Shanwen WANG 王善文 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Associate professor
+School of Mathematics,
+Renmin university of China.
+No. 59 Zhongguancun Street, 
+Haidian District Beijing, 
+100872, P.R. China.
+Email: s_wang@ruc.edu.cn
 ### This page is under construction....
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
